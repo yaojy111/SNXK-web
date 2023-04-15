@@ -4,6 +4,8 @@ import SearchingRes from '../views/mainpage/SearchingRes'
 import NewData from '../views/mainpage/NewData'
 import Visualize from '../views/mainpage/Visualize'
 import Aboutus from '../views/mainpage/Aboutus'
+import Develop from '../views/mainpage/Develop'
+import ImportVisualize from '../views/mainpage/ImportVisualize'
 const routes = [
   {
     path: "/",
@@ -25,6 +27,13 @@ const routes = [
   {
     path: "/aboutus",
     component: Aboutus,
+  },{
+    path: "/develop",
+    component: Develop,
+  },
+  {
+    path: "/import/visualize",
+    component: ImportVisualize,
   },
 ]
 

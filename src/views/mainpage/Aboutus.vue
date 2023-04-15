@@ -1,6 +1,6 @@
 <template>
     <div style="height:97%">
-        <t-card :style="{ width: '100%', height: '2000px' }">
+        <t-card :style="{ width: '100%', height: '1000px' }">
             <div style="font-size: 20px;margin-left: 80px">
                 关于我们
                 <t-card :style="{ width: '1000px', height: '180px' }" style="margin-top: 20px">
@@ -41,7 +41,7 @@
             </div>
             <div style="font-size: 20px;margin-left: 80px;margin-top: 20px">
                 与我们取得联系
-                <t-card :style="{ width: '1000px', height: '420px' }" style="margin-top: 20px">
+                <t-card :style="{ width: '1000px', height: '200px' }" style="margin-top: 20px">
                     <div style="font-size: 18px; text-align:center">
                         通过邮箱
                         <p></p>
@@ -52,9 +52,9 @@
                     <div style="margin-left: 430px">
                         —— 或者 ——
                     </div>
-                    <LogoGithubFilledIcon size="25px"/>
-                    <LogoQqIcon size="25px"/>
-                    <LogoWechatIcon size="25px"/>
+                    <LogoGithubFilledIcon size="25px" style="margin-left: 430px;margin-top: 10px"/>
+                    <LogoQqIcon size="25px" style="margin-left: 10px;margin-top: 10px"/>
+                    <LogoWechatIcon size="25px" style="margin-left: 10px;margin-top: 10px"/>
                 </t-card>
             </div>
         </t-card>

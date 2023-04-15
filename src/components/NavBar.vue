@@ -31,6 +31,19 @@
       </t-submenu>
       <!-- <t-menu-item value="item2" style="font-size: 15px;"> 登录 </t-menu-item>
       <t-menu-item value="item2" style="font-size: 15px;"> 注册 </t-menu-item> -->
+      <!-- <t-menu-item value="item2" style="margin-left: 850px;font-size: 15px;" @click="visibleBody1 = true"> 一键导入 </t-menu-item>
+      <t-dialog v-model:visible="visibleBody1" attach="body" header="上传" :on-confirm="() => (visibleBody1 = false)"
+        :onConfirm="submitContent1">
+        <template #body>
+          <label for="albumname" class="form-label">请选择本地文件</label>
+          <t-upload ref="uploadRef1" v-model="files1"
+            action="https://service-bv448zsw-1257786608.gz.apigw.tencentcs.com/api/upload-demo"
+            :headers="{ a: 'N1', b: 'N2' }"  :multiple="multiple"
+            :auto-upload="autoUpload" :upload-all-files-in-one-request="uploadInOneRequest"
+            :is-batch-upload="isBatchUpload" :size-limit="{ size: 20, unit: 'MB' }" :max="5" :disabled="disabled"
+            :allow-upload-duplicate-file="true" @select-change="handleSelectChange" @fail="handleFail"
+            @success="handleSuccess" @one-file-success="onOneFileSuccess" @validate="onValidate" /></template>
+      </t-dialog> -->
     </t-head-menu>
     <!-- <t-head-menu v-model="menu1Value" theme="light" @change="changeHandler">
       <template #logo>
