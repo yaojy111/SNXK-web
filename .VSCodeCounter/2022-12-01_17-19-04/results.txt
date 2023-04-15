@@ -1,0 +1,57 @@
+Date : 2022-12-01 17:19:04
+Directory : d:\javawork\digit album\web3
+Total : 20 files,  30157 codes, 43 comments, 219 blanks, all 30419 lines
+
+Languages
++------------+------------+------------+------------+------------+------------+
+| language   | files      | code       | comment    | blank      | total      |
++------------+------------+------------+------------+------------+------------+
+| JSON       |          2 |     28,486 |          0 |          2 |     28,488 |
+| vue        |         11 |      1,411 |         42 |        196 |      1,649 |
+| JavaScript |          5 |        225 |          0 |         14 |        239 |
+| Markdown   |          1 |         19 |          0 |          6 |         25 |
+| HTML       |          1 |         16 |          1 |          1 |         18 |
++------------+------------+------------+------------+------------+------------+
+
+Directories
++---------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                            | files      | code       | comment    | blank      | total      |
++---------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                               |         20 |     30,157 |         43 |        219 |     30,419 |
+| public                                                                          |          1 |         16 |          1 |          1 |         18 |
+| src                                                                             |         15 |      1,631 |         42 |        209 |      1,882 |
+| src\components                                                                  |          2 |        347 |         38 |         50 |        435 |
+| src\router                                                                      |          1 |        109 |          0 |          7 |        116 |
+| src\store                                                                       |          2 |        100 |          0 |          4 |        104 |
+| src\views                                                                       |          8 |        989 |          4 |        138 |      1,131 |
+| src\views\mainpage                                                              |          6 |        855 |          4 |        122 |        981 |
+| src\views\user                                                                  |          2 |        134 |          0 |         16 |        150 |
+| src\views\user\account                                                          |          2 |        134 |          0 |         16 |        150 |
++---------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++---------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| filename                                                                        | language   | code       | comment    | blank      | total      |
++---------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| d:\javawork\digit album\web3\README.md                                          | Markdown   |         19 |          0 |          6 |         25 |
+| d:\javawork\digit album\web3\babel.config.js                                    | JavaScript |          5 |          0 |          1 |          6 |
+| d:\javawork\digit album\web3\package-lock.json                                  | JSON       |     28,431 |          0 |          1 |     28,432 |
+| d:\javawork\digit album\web3\package.json                                       | JSON       |         55 |          0 |          1 |         56 |
+| d:\javawork\digit album\web3\public\index.html                                  | HTML       |         16 |          1 |          1 |         18 |
+| d:\javawork\digit album\web3\src\App.vue                                        | vue        |         75 |          0 |          8 |         83 |
+| d:\javawork\digit album\web3\src\components\NavBar.vue                          | vue        |        310 |         19 |         40 |        369 |
+| d:\javawork\digit album\web3\src\components\SlideBar.vue                        | vue        |         37 |         19 |         10 |         66 |
+| d:\javawork\digit album\web3\src\main.js                                        | JavaScript |         11 |          0 |          2 |         13 |
+| d:\javawork\digit album\web3\src\router\index.js                                | JavaScript |        109 |          0 |          7 |        116 |
+| d:\javawork\digit album\web3\src\store\index.js                                 | JavaScript |         15 |          0 |          2 |         17 |
+| d:\javawork\digit album\web3\src\store\user.js                                  | JavaScript |         85 |          0 |          2 |         87 |
+| d:\javawork\digit album\web3\src\views\mainpage\FriendList.vue                  | vue        |         46 |          0 |          9 |         55 |
+| d:\javawork\digit album\web3\src\views\mainpage\FriendZone.vue                  | vue        |        299 |          0 |         41 |        340 |
+| d:\javawork\digit album\web3\src\views\mainpage\Info.vue                        | vue        |        114 |          4 |         21 |        139 |
+| d:\javawork\digit album\web3\src\views\mainpage\ShowAlbum.vue                   | vue        |        208 |          0 |         25 |        233 |
+| d:\javawork\digit album\web3\src\views\mainpage\ShowImage.vue                   | vue        |        158 |          0 |         16 |        174 |
+| d:\javawork\digit album\web3\src\views\mainpage\WelcomePage.vue                 | vue        |         30 |          0 |         10 |         40 |
+| d:\javawork\digit album\web3\src\views\user\account\UserAccountLoginView.vue    | vue        |         63 |          0 |          9 |         72 |
+| d:\javawork\digit album\web3\src\views\user\account\UserAccountRegisterView.vue | vue        |         71 |          0 |          7 |         78 |
+| Total                                                                           |            |     30,157 |         43 |        219 |     30,419 |
++---------------------------------------------------------------------------------+------------+------------+------------+------------+------------+

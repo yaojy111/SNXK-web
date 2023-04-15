@@ -1,0 +1,22 @@
+"filename", "language", "Markdown", "JSON", "HTML", "JavaScript", "vue", "comment", "blank", "total"
+"d:\javawork\digit album\web3\README.md", "Markdown", 19, 0, 0, 0, 0, 0, 6, 25
+"d:\javawork\digit album\web3\babel.config.js", "JavaScript", 0, 0, 0, 5, 0, 0, 1, 6
+"d:\javawork\digit album\web3\package-lock.json", "JSON", 0, 28431, 0, 0, 0, 0, 1, 28432
+"d:\javawork\digit album\web3\package.json", "JSON", 0, 55, 0, 0, 0, 0, 1, 56
+"d:\javawork\digit album\web3\public\index.html", "HTML", 0, 0, 16, 0, 0, 1, 1, 18
+"d:\javawork\digit album\web3\src\App.vue", "vue", 0, 0, 0, 0, 75, 0, 8, 83
+"d:\javawork\digit album\web3\src\components\NavBar.vue", "vue", 0, 0, 0, 0, 310, 19, 40, 369
+"d:\javawork\digit album\web3\src\components\SlideBar.vue", "vue", 0, 0, 0, 0, 37, 19, 10, 66
+"d:\javawork\digit album\web3\src\main.js", "JavaScript", 0, 0, 0, 11, 0, 0, 2, 13
+"d:\javawork\digit album\web3\src\router\index.js", "JavaScript", 0, 0, 0, 109, 0, 0, 7, 116
+"d:\javawork\digit album\web3\src\store\index.js", "JavaScript", 0, 0, 0, 15, 0, 0, 2, 17
+"d:\javawork\digit album\web3\src\store\user.js", "JavaScript", 0, 0, 0, 85, 0, 0, 2, 87
+"d:\javawork\digit album\web3\src\views\mainpage\FriendList.vue", "vue", 0, 0, 0, 0, 46, 0, 9, 55
+"d:\javawork\digit album\web3\src\views\mainpage\FriendZone.vue", "vue", 0, 0, 0, 0, 299, 0, 41, 340
+"d:\javawork\digit album\web3\src\views\mainpage\Info.vue", "vue", 0, 0, 0, 0, 114, 4, 21, 139
+"d:\javawork\digit album\web3\src\views\mainpage\ShowAlbum.vue", "vue", 0, 0, 0, 0, 208, 0, 25, 233
+"d:\javawork\digit album\web3\src\views\mainpage\ShowImage.vue", "vue", 0, 0, 0, 0, 158, 0, 16, 174
+"d:\javawork\digit album\web3\src\views\mainpage\WelcomePage.vue", "vue", 0, 0, 0, 0, 30, 0, 10, 40
+"d:\javawork\digit album\web3\src\views\user\account\UserAccountLoginView.vue", "vue", 0, 0, 0, 0, 63, 0, 9, 72
+"d:\javawork\digit album\web3\src\views\user\account\UserAccountRegisterView.vue", "vue", 0, 0, 0, 0, 71, 0, 7, 78
+"Total", "-", 19, 28486, 16, 225, 1411, 43, 219, 30419
