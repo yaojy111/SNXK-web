@@ -1,7 +1,7 @@
 <template>
     <div class="font">
         <t-divider />
-        <t-row :gutter="16" style="margin-top: 15px">
+        <t-row :gutter="16" style="margin-top: 25px">
             <t-col :span="4">
                 <div><t-card :bordered="false" style="width: 200px;margin-left: 170px ">
                         <div style="font-size: 20px">
@@ -38,11 +38,11 @@
                     <t-card :bordered="false" style="width: 400px">
                         <div>
                             <ServiceIcon size="25px" />
-                            联系我们：19210335@njnu.edu.cn
+                            联系作者：19190232@njnu.edu.cn
                         </div>
                         <div>
                             <UserTalkIcon size="25px" />
-                            用户反馈：19210326@njnu.edu.cn
+                            用户反馈：19190232@njnu.edu.cn
                         </div>
                     </t-card>
                 </div>

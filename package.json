@@ -11,6 +11,8 @@
     "@popperjs/core": "^2.11.6",
     "bootstrap": "^5.2.0",
     "core-js": "^3.6.5",
+    "file-saver": "^2.0.5",
+    "html2canvas": "^1.4.1",
     "jquery": "^3.6.0",
     "less": "^4.0.0",
     "ngl": "^2.1.0",

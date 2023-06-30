@@ -2,9 +2,9 @@
   <div>
     <t-head-menu default-value="2-1" expand-type="popup">
       <template #logo>
-        <img height="48" src="..\assets\logo.jpg" alt="logo" />
+        <img height="48" src="..\assets\logo.png" alt="logo" />
       </template>
-      <t-menu-item value="item1" style="margin-left: 450px;font-size: 15px;"> 概述 </t-menu-item>
+      <!-- <t-menu-item value="item1" style="margin-left: 50px;font-size: 15px;"> 概述 </t-menu-item>
       <t-submenu value="1">
         <template #title>
           <span>工具</span>
@@ -28,7 +28,7 @@
         <t-menu-item value="1-2"> 我的信息 </t-menu-item>
         <t-menu-item value="1-3"> 我的团队 </t-menu-item>
         <t-menu-item value="1-4"> 退出登录 </t-menu-item>
-      </t-submenu>
+      </t-submenu> -->
       <!-- <t-menu-item value="item2" style="font-size: 15px;"> 登录 </t-menu-item>
       <t-menu-item value="item2" style="font-size: 15px;"> 注册 </t-menu-item> -->
       <!-- <t-menu-item value="item2" style="margin-left: 850px;font-size: 15px;" @click="visibleBody1 = true"> 一键导入 </t-menu-item>
